@@ -1,4 +1,5 @@
-#Lebenslauf
+# Lebenslauf
+
 **Geburtstag:** 20.04.1995
 
 **Geburtsort:** 
@@ -11,3 +12,6 @@
 * Studium
 
 *Eceri*
+
+
+![Avatar Chaser](https://github.com/Eceri/Einkaufsliste/blob/zweig1/profile.png "Bild")
