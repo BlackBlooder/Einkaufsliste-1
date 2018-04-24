@@ -13,4 +13,4 @@
 *Eceri*
 
 
-![Avatar Chaser](https://i.imgur.com/XV4WUf7.png "Bild")
+![Avatar Chaser](https://github.com/Eceri/Einkaufsliste/blob/zweig1/profile.png "Bild")
